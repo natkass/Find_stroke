@@ -31,4 +31,4 @@ jobs:
     - name: Run Script
       run: |
         source venv/bin/activate
-        python your_script_name.py
+        python Find_stroke.py
